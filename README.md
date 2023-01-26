@@ -1,2 +1,1 @@
-# hexlet-js
-test repo
+Hello, Hexlet! 
